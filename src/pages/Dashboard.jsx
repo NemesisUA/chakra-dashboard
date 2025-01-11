@@ -1,8 +1,13 @@
 
+import { Stack } from "@chakra-ui/react"
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <Stack>
+      <div>Dashboard</div>
+      <span>1</span>
+      <span>2</span>
+    </Stack>
   )
 }
 
