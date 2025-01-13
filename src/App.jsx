@@ -3,7 +3,6 @@ import RootLayout from './layouts/RootLayout'
 import Dashboard from './pages/Dashboard'
 import Create from './pages/Create'
 import Profile from './pages/Profile'
-import './App.css'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
